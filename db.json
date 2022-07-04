@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Make dinner for In-Laws",
+      "day": "June 30th at 7:00 pm",
+      "reminder": false
+    },
+    {
+      "text": "Take React Exam",
+      "day": "July 15th at 5:00 p.m",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Take Java Exam",
+      "day": "July 26th at 5:00 p.m",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
